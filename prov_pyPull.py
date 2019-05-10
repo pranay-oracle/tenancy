@@ -8,8 +8,8 @@ PURPOSE : Check details on a tenancy , reset password, fecth in Excel compatible
 
 Usage :
   reset password     |+ pyPull.py --proxy --reset-pwd userid@email.com -p veon01
-  list all details   |+ pyPull.py --proxy -o -p veon01
-  list all in Exls   |+ pyPull.py --proxy -p veon01
+  list all details   |+ pyPull.py --proxy -o -p tenancyname
+  list all in Exls   |+ pyPull.py --proxy -p tenancyname
 Edited by pranay on 20 MAr 2019 for getting tag details as well
 """
 
